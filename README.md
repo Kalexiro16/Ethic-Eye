@@ -19,4 +19,5 @@ you can download the model from : https://huggingface.co/Arya20032705/dark_patte
 
 you should then make a folder named as fine_tuned_bert_model in that folder paste the downloads
 
-Screenshot 2024-04-08 at 12 04 45 PM
+![image](https://github.com/user-attachments/assets/6a2d6a70-94c9-49b9-babe-608ee7e5ad99)
+
